@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+.containar{
+   
+    background-color: rgb(2, 2, 51);
+    max-width: 1320px;
+    margin: auto;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+.box1{
+    padding: 30px;
+}
+h1{
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: white;
+    font-size: 17px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.box1{
+   
+   
+    width: 25%;
+
+}
+input{
+    
+   
+    margin-top: 30PX;
+    width: 60%;
+    height: 30PX;
+}
+button{
+    height: 30px;
+
+}
